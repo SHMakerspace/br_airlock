@@ -1,4 +1,4 @@
-update=19/04/2017 13:50:18
+update=19/04/2017 16:06:30
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,4 @@ LibName29=valves
 LibName30=C:/Program Files/KiCad/share/kicad/library/relays
 LibName31=C:/Program Files/KiCad/share/kicad/library/switches
 LibName32=WS2812B.pretty/ws2812b
+LibName33=C:/Program Files/KiCad/share/kicad/library/philips
