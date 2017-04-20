@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name WS2812B)(type KiCad)(uri "$(KIPRJMOD)/WS2812B.pretty")(options "")(descr ""))
+  (lib (name BR_relay)(type KiCad)(uri "$(KIPRJMOD)/BR_relay.pretty")(options "")(descr ""))
 )
